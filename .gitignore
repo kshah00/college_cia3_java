@@ -1,0 +1,5 @@
+target/
+students.db
+.DS_Store
+.idea/
+*.iml
